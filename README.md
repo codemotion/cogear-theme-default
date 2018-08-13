@@ -1,6 +1,6 @@
 # Cogear.JS default theme
 
-![screenshot](screenshot.jpg)
+![screenshot](https://github.com/codemotion/cogear-theme-default/raw/master/screenshot.jpg)
 
 # Installation
 
