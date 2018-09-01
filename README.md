@@ -22,7 +22,7 @@ All the themes for [Cogear.JS](https://cogearjs.org) a prefixed in `npm` with `c
 
 # Generate new theme
 
-To generate new theme (npm package), just run `cogear theme new [theme-name]` which will fire up a generator.
+To generate new theme (npm package), just run `cogear theme [theme-name]` which will fire up a generator.
 
 # Docs
 
